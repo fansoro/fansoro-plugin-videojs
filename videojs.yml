@@ -1,0 +1,13 @@
+name: VideoJS
+version: 1.0.0
+description: "VideoJS plugin for Morfy"
+author:
+  name: Sergey Romanenko
+  email: awilum@msn.com
+  url: http://morfy.org
+homepage: https://github.com/morfy-cms/morfy-plugin-videojs
+bugs: https://github.com/morfy-cms/morfy-plugin-videojs/issues
+license: MIT
+
+# Plugin settings
+enabled: true
