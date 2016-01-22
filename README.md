@@ -2,14 +2,14 @@
 
 ![VideoJS](screenshot.png)
 
-VideoJS plugin for [Morfy](https://github.com/morfy-cms/morfy) with [Video.js](http://videojs.com/)  
+VideoJS plugin for [Fansoro](https://github.com/fansoro/fansoro) with [Video.js](http://videojs.com/)  
 
 Video.js is a JavaScript and CSS library that makes it easier to work with and build on HTML5 video, today.  
 
 Video.js provides a common controls skin built in HTML/CSS, fixes cross-browser inconsistencies, adds additional features like fullscreen and subtitles, manages the fallback to Flash or other playback technologies when HTML5 video isn't supported, and also provides a consistent JavaScript API for interacting with the video.   
 
 ## Installation
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage
 
@@ -37,4 +37,4 @@ In template
 | height | Height |
 
 ## License
-See [LICENSE](https://github.com/morfy-cms/morfy-plugin-spolier/blob/master/LICENSE)
+See [LICENSE](https://github.com/fansoro/fansoro-plugin-spolier/blob/master/LICENSE)

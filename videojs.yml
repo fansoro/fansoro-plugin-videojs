@@ -1,12 +1,12 @@
 name: VideoJS
-version: 1.0.0
-description: "VideoJS plugin for Morfy"
+version: 2.0.0
+description: "VideoJS plugin for fansoro"
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
-  url: http://morfy.org
-homepage: https://github.com/morfy-cms/morfy-plugin-videojs
-bugs: https://github.com/morfy-cms/morfy-plugin-videojs/issues
+  url: http://fansoro.org
+homepage: https://github.com/fansoro/fansoro-plugin-videojs
+bugs: https://github.com/fansoro/fansoro-plugin-videojs/issues
 license: MIT
 
 # Plugin settings

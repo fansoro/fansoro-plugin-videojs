@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Morfy VideoJS Plugin
+ * Fansoro VideoJS Plugin
  *
  * (c) Romanenko Sergey / Awilum <awilum@msn.com>
  *
